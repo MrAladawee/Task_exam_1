@@ -1,0 +1,17 @@
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\bin\Debug\net6.0-windows\Task_for_exam_1.exe
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\bin\Debug\net6.0-windows\Task_for_exam_1.deps.json
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\bin\Debug\net6.0-windows\Task_for_exam_1.runtimeconfig.json
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\bin\Debug\net6.0-windows\Task_for_exam_1.dll
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\bin\Debug\net6.0-windows\Task_for_exam_1.pdb
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\Task_for_exam_1.csproj.AssemblyReference.cache
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\Task_for_exam_1.Form1.resources
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\Task_for_exam_1.csproj.GenerateResource.cache
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\Task_for_exam_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\Task_for_exam_1.AssemblyInfoInputs.cache
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\Task_for_exam_1.AssemblyInfo.cs
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\Task_for_exam_1.csproj.CoreCompileInputs.cache
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\Task_for_exam_1.dll
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\refint\Task_for_exam_1.dll
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\Task_for_exam_1.pdb
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\Task_for_exam_1.genruntimeconfig.cache
+D:\ProjectC\C#\Task_for_exam_1\Task_for_exam_1\obj\Debug\net6.0-windows\ref\Task_for_exam_1.dll
